@@ -2,6 +2,5 @@ Test
 
 Prva izmjena u fajlu
 
-jos jedna izmjena
 
-if nesto then nesto drugo
+novi ficr je ludilo
