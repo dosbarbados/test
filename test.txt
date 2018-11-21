@@ -4,3 +4,4 @@ Prva izmjena u fajlu
 
 novi ficr je ludilo
 
+novi dio koda koji je lokalno
