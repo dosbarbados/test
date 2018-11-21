@@ -2,8 +2,5 @@ Test
 
 Prva izmjena u fajlu
 
-jos jedna izmjena
+novi ficr je ludilo
 
-if nesto then nesto drugo
-
-nastavljamo rad na masteru
